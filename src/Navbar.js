@@ -1,0 +1,44 @@
+import React from 'react'
+
+function Navbar() {
+  return (
+    <nav class="navbar navbar-b navbar-trans navbar-expand-md fixed-top " id="mainNav">
+    <div class="container">
+      <a class="navbar-brand js-scroll" href="#page-top">~ /\/\@T|-|U ~</a>
+      <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarDefault"
+        aria-controls="navbarDefault" aria-expanded="false" aria-label="Toggle navigation">
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
+      <div class="navbar-collapse collapse justify-content-end" id="navbarDefault">
+        <ul class="navbar-nav">
+          <li class="nav-item">
+            <a class="nav-link js-scroll active" href="#home">Home</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link js-scroll" href="#about">About</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link js-scroll" href="#service">Sklls</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link js-scroll" href="#work">Project</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link js-scroll" href="#blog">Blog</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link js-scroll" href="#contact">Contact</a>
+          </li>
+          <li class="nav-item">
+          <a href="http://bit.ly/3YxbygI" target="_blank" class="btn btn-secondary stretched-link">My CV</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+  )
+}
+
+export default Navbar
