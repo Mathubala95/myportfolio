@@ -41,6 +41,7 @@ function Project() {
                 <div className='col-lg-12 mt-2 mb-3'>
                   <a href="https://velvety-choux-721dba.netlify.app/" target="_blank" class="stretched-link">Click My Zomato Clone</a>                  
                   <div className='col-lg-12 mt-2'>
+                    <p>Full Stack Project The Clone Of Zomato Website </p>
                   <span class="badge text-bg-secondary">React js</span>    
                    <span class="badge text-bg-secondary">Node js</span>
                     <span class="badge text-bg-secondary">Express js</span>
@@ -69,6 +70,7 @@ function Project() {
                 <div className='col-lg-12 mt-2 '>
                   <a href="https://magnificent-cranachan-79826b.netlify.app/#home" target="_blank" class="stretched-link">Click My Portfolio</a>                  
                   <div className='col-lg-12 mt-4 mb-4'>
+                  <p>My Personal Website Built With React</p>
                   <span class="badge text-bg-secondary">React js</span>                      
                     <span class="badge text-bg-secondary">JavaScript</span>
                     <span class="badge text-bg-secondary">Bootstrap</span>
@@ -91,6 +93,7 @@ function Project() {
                 <div className='col-lg-12 mt-2 '>
                   <a href="https://euphonious-taffy-120cd3.netlify.app/" target="_blank" class="stretched-link">Click My Makeup</a>                  
                   <div className='col-lg-12 mt-4 mb-4'>
+                  <p>Makeup Website Is Creating For Fetch API</p>
                     <span class="badge text-bg-secondary">JavaScript</span>
                     <span class="badge text-bg-secondary">DOM</span>                  
                     <span class="badge text-bg-secondary">HTML</span>
