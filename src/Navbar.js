@@ -25,9 +25,9 @@ function Navbar() {
           <li class="nav-item">
             <a class="nav-link js-scroll" href="#work">Project</a>
           </li>
-          <li class="nav-item">
+          {/* <li class="nav-item">
             <a class="nav-link js-scroll" href="#blog">Blog</a>
-          </li>
+          </li> */}
           <li class="nav-item">
             <a class="nav-link js-scroll" href="#contact">Contact</a>
           </li>

@@ -6,9 +6,9 @@ function About() {
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12">
-                        <div class="box-shadow-full">
+                        <div class="box-shadow-full ">
                             <div class="row">
-                                <div class="col-md-6">
+                                <div class="col-md-6 ">
                                     <div class="row">
                                         <div class="col-sm-6 col-md-5">
                                             <div class="about-img">

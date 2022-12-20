@@ -15,35 +15,34 @@ function Contact() {
                       Get in Touch
 
                     </h5><br/>
-                    <p class="text-info">
+                    <p>
                 Feel free to get in touch with me. I am always open to
                 discussing new projects, creative ideas or opportunities to be
                 part of your visions.
               </p>   
               <br/>
               <div class="contact-info">
+                
                 <img
                   class="img-fluid skillsImg"
                   src="img/location.png"
                   alt="icon"
-                />ADDRESS POINT : Udumalpet,Tiruppur,TamilNadu,India
-              </div>
+                />    ADDRESS POINT : Udumalpet,Tiruppur,TamilNadu,India
+              </div><br/>
               <div class="contact-info">
                 <img
                   class="img-fluid skillsImg"
                   src="img/mail.png"
                   alt="icon"
-                />
-                MAIL ME : madhuvalar.govindaraj@gmail.com
-              </div>   
+                />    MAIL ME : madhuvalar.govindaraj@gmail.com
+              </div>   <br/>
               <div class="contact-info">
                 <img
                   class="img-fluid skillsImg"
                   src="img/phone.png"
                   alt="icon"
-                />
-                CALL ME : 7502848705
-              </div>
+                />    CALL ME : 7502848705
+              </div><br/>
               <div class="contact-info">
                 <img
                   class="img-fluid skillsImg"
