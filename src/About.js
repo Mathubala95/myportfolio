@@ -14,8 +14,6 @@ function About() {
                                             <div class="about-img">
                                                 <img src="img/IMG-20220615-WA0005.jpg" class="img-fluid rounded b-shadow-a" alt="" />
                                             </div>
-                                        </div>
-                                        <div class="col-sm-6 col-md-7 mt-4">
                                             <div class="about-info">
                                                 <p><span class="title-s">Name: </span> <span>Mathubala G</span></p>
                                                 <p><span class="title-s">Qualification: </span> <span>MCA</span></p>
@@ -23,6 +21,9 @@ function About() {
                                                 <p><span class="title-s">Email: </span> <span>madhuvalar.govindaraj@gmail.com</span></p>
                                                 
                                             </div>
+                                        </div>
+                                        <div class="col-sm-6 col-md-7 mt-4">
+                                           
                                         </div>
                                     </div>
                                     <div class="row">
