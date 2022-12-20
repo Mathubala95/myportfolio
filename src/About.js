@@ -40,7 +40,7 @@ function About() {
                                             </h5>
                                         </div>
                                         <p class="lead">
-                                            Hi, I am Mathubala, growing myself as a fullstack developer was learned from my self interst.
+                                            Hi, I am Mathubala, growing myself as a fullstack developer was learned from my self interest.
                                             I definitely have a passion for programming and would like to make it into a career.                                         
                                         </p>  
                                         <p class="lead">                                            
