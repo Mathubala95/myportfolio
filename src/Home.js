@@ -10,7 +10,7 @@ function Home() {
           <p class="display-6 color-d">Hai...,</p>
           <h1 class="intro-title mb-4">I am Mathubala</h1>
           <p class="intro-subtitle"><span>FULL STACK DEVELOPER...</span><strong class="text-slider"></strong></p>
-          <p class="pt-3"><a class="btn btn-primary btn js-scroll px-4" href="#about" role="button">Let's Go</a></p>
+          {/* <p class="pt-3"><a class="btn btn-primary btn js-scroll px-4" href="#about" role="button">Let's Go</a></p> */}
           
         </div>
       </div>
