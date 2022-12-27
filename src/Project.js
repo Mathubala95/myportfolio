@@ -68,7 +68,7 @@ function Project() {
               <div className='col-lg-12'>
                 <div class="row">
                 <div className='col-lg-12 mt-2 '>
-                  <a href="https://magnificent-cranachan-79826b.netlify.app/#home" target="_blank" class="stretched-link">Click My Portfolio</a>                  
+                  <a href="https://mathubala.netlify.app/" target="_blank" class="stretched-link">Click My Portfolio</a>                  
                   <div className='col-lg-12 mt-4 mb-4'>
                   <p>My Personal Website Built With React</p>
                   <span class="badge text-bg-secondary">React js</span>                      
