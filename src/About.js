@@ -44,11 +44,11 @@ function About() {
                                             I definitely have a passion for programming and would like to make it into a career.                                         
                                         </p>  
                                         <p class="lead">                                            
-                                        You have to consider bringing me into your organization. 
+                                        Consider bringing me into your organization. 
                                         I learn fast and am looking forward to being a value-added employee as fast as possible!                                      
                                         </p>                                       
                                         <p class="lead">                                       
-                                        I am not only skilled in web development,also proficient in Back-end development 
+                                        I am also skilled in web development,also proficient in Back-end development 
                                         and Database. I love to work with Web technologies like React and built some projects using the same, 
                                         including this website(My Portfolio).
                                         </p>
