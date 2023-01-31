@@ -44,7 +44,7 @@ function About() {
                                             I definitely have a passion for programming and would like to make it into a career.                                         
                                         </p>  
                                         <p class="lead">                                            
-                                        Consider bringing me into your organization. 
+                                        Consider to bringing me into your organization. 
                                         I learn fast and am looking forward to being a value-added employee as fast as possible!                                      
                                         </p>                                       
                                         <p class="lead">                                       
